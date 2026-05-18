@@ -12,7 +12,7 @@ The entire analysis was done computationally without any wet lab work.
 
 -----------------------------------------------------------------------------------
 
-## What did I do?
+## What I did?
 
 1. Downloaded the BlaCTX gene sequence (876 bp) from NCBI GenBank 
    (Accession: CP162271.1, *Kluyvera sichuanensis*)
