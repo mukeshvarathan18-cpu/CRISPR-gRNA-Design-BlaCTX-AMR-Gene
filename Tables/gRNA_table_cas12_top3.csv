@@ -1,0 +1,4 @@
+gRNA ID,Rank,gRNA Sequence (28nt),Position,Strand,GC Content (%),Self-Complementarity,Efficiency Score,Off-targets (MM0),Off-targets (MM1),Off-targets (MM2),Off-targets (MM3)
+Cas12_gRNA1,1,TTCGCCGGACAATGTTAATGATGATGGC,seq:17,+,46,0,0,0,0,0,0
+Cas12_gRNA2,2,TTCGCAAATTGTCTATCGCGCAGACGAG,seq:174,+,50,0,0,0,0,0,0
+Cas12_gRNA3,3,TTCTTAATTTCAACACGCTGGTTTAAAA,seq:278,-,29,0,0,0,0,0,0
