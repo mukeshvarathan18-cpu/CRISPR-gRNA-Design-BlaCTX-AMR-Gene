@@ -41,7 +41,6 @@ The entire analysis was done computationally without any wet lab work.
 - SnapGene Viewer — sequence visualization and annotation
 - CHOPCHOP v3 — gRNA design
 - NCBI BLAST — specificity validation
-- Python (pandas) — data cleaning and table formatting
 
 -------------------------------------------------------------------------------
 
