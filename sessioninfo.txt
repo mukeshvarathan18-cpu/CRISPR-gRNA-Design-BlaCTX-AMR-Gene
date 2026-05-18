@@ -1,0 +1,35 @@
+Session Info — CRISPR gRNA Design Project
+==========================================
+Date: May 2026
+Analyst: A A MUKESH VARATHAN
+
+Tools Used:
+-----------
+1. SnapGene
+   - Purpose: Gene visualization and gRNA annotation
+   - URL: snapgene.com
+
+2. CHOPCHOP
+   - Purpose: gRNA identification for Cas9, Cas12, Cas13
+
+3. NCBI BLAST (blastn)
+   - Purpose: gRNA specificity validation
+   - URL: blast.ncbi.nlm.nih.gov
+   - Database: Nucleotide collection (nr/nt)
+
+4. Python 3.x
+   - Libraries: pandas, openpyxl
+   - Purpose: Data cleaning and table formatting
+
+Input Sequence:
+---------------
+Gene: BlaCTX (CTX-M beta-lactamase)
+Source Organism: Kluyvera sichuanensis
+GenBank Accession: CP162271.1
+Sequence Length: 876 bp
+
+Output:
+-------
+- 3 gRNAs designed per Cas type (Cas9, Cas12, Cas13)
+- All top candidates show 0 off-targets (MM0)
+- BLAST confirms 100% identity to source organism
